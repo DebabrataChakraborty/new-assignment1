@@ -5,7 +5,7 @@
 }
 /* header Styles */
 header{
-    background-image: url(/images/banner/banner2.png);
+    background-image: url(../images/banner/banner2.png);
     height: 900px;
     text-align: right;
     background-repeat: no-repeat;
